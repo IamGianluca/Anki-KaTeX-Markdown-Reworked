@@ -91,7 +91,7 @@ The markdown preview will automatically follow all user style modifications.
 ## Installation
 
 1. Clone the repository: `git clone git@github.com:IamGianluca/Anki-KaTeX-Markdown-Reworked.git`
-2. Create a symlink to your addon folder `ln -s ~/<path_to_repo>/MDKaTex /<path_to_addon_folder>/addons21/`
+2. Create a symlink to your addon folder: `ln -s /<path_to_repo>/MDKaTeX /<path_to_addon_folder>/addons21/`
 
 ## Credits to
 - [Jwrede](https://github.com/Jwrede) for starting this cool project.
